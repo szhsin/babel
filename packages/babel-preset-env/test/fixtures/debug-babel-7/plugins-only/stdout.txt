@@ -22,7 +22,7 @@ Using plugins:
   proposal-async-generator-functions { firefox < 57, node < 10 }
   proposal-object-rest-spread { firefox < 55, node < 8.3 }
   transform-dotall-regex { firefox < 78, node < 8.10 }
-  proposal-unicode-property-regex { firefox < 78, node < 10 }
+  proposal-unicode-property-regex { firefox < 134, node }
   transform-named-capturing-groups-regex { firefox < 78, node < 10 }
   transform-literals { firefox < 53 }
   transform-function-name { firefox < 53 }

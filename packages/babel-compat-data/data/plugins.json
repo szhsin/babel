@@ -4,8 +4,11 @@
     "opera": "80",
     "edge": "94",
     "firefox": "93",
+    "safari": "16.4",
     "node": "16.11",
     "deno": "1.14",
+    "ios": "16.4",
+    "samsung": "17",
     "electron": "15.0"
   },
   "proposal-class-static-block": {
@@ -13,8 +16,11 @@
     "opera": "80",
     "edge": "94",
     "firefox": "93",
+    "safari": "16.4",
     "node": "16.11",
     "deno": "1.14",
+    "ios": "16.4",
+    "samsung": "17",
     "electron": "15.0"
   },
   "transform-private-property-in-object": {
@@ -26,6 +32,7 @@
     "node": "16.9",
     "deno": "1.9",
     "ios": "15",
+    "samsung": "16",
     "electron": "13.0"
   },
   "proposal-private-property-in-object": {
@@ -37,6 +44,7 @@
     "node": "16.9",
     "deno": "1.9",
     "ios": "15",
+    "samsung": "16",
     "electron": "13.0"
   },
   "transform-class-properties": {
@@ -47,7 +55,7 @@
     "safari": "14.1",
     "node": "12",
     "deno": "1",
-    "ios": "15",
+    "ios": "14.5",
     "samsung": "11",
     "electron": "6.0"
   },
@@ -59,7 +67,7 @@
     "safari": "14.1",
     "node": "12",
     "deno": "1",
-    "ios": "15",
+    "ios": "14.5",
     "samsung": "11",
     "electron": "6.0"
   },
@@ -170,6 +178,7 @@
     "node": "16.9",
     "deno": "1.9",
     "ios": "13.4",
+    "samsung": "16",
     "electron": "13.0"
   },
   "proposal-optional-chaining": {
@@ -181,6 +190,7 @@
     "node": "16.9",
     "deno": "1.9",
     "ios": "13.4",
+    "samsung": "16",
     "electron": "13.0"
   },
   "transform-json-strings": {
@@ -238,8 +248,10 @@
     "opera": "36",
     "edge": "18",
     "firefox": "53",
+    "safari": "16.3",
     "node": "6",
     "deno": "1",
+    "ios": "16.3",
     "samsung": "5",
     "electron": "0.37"
   },
@@ -301,31 +313,14 @@
     "deno": "1",
     "ios": "11.3",
     "samsung": "8",
+    "rhino": "1.7.15",
     "electron": "3.0"
   },
   "transform-unicode-property-regex": {
-    "chrome": "64",
-    "opera": "51",
-    "edge": "79",
-    "firefox": "78",
-    "safari": "11.1",
-    "node": "10",
-    "deno": "1",
-    "ios": "11.3",
-    "samsung": "9",
-    "electron": "3.0"
+    "firefox": "134"
   },
   "proposal-unicode-property-regex": {
-    "chrome": "64",
-    "opera": "51",
-    "edge": "79",
-    "firefox": "78",
-    "safari": "11.1",
-    "node": "10",
-    "deno": "1",
-    "ios": "11.3",
-    "samsung": "9",
-    "electron": "3.0"
+    "firefox": "134"
   },
   "transform-named-capturing-groups-regex": {
     "chrome": "64",
@@ -386,6 +381,7 @@
     "deno": "1",
     "ios": "9",
     "samsung": "4",
+    "rhino": "1.7.15",
     "electron": "0.30"
   },
   "transform-function-name": {
@@ -509,6 +505,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "0.37"
   },
   "transform-unicode-escapes": {
@@ -521,6 +518,7 @@
     "deno": "1",
     "ios": "9",
     "samsung": "4",
+    "rhino": "1.7.15",
     "electron": "0.30"
   },
   "transform-unicode-regex": {

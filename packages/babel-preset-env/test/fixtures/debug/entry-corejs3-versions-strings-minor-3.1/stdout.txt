@@ -24,7 +24,7 @@ Using plugins:
   proposal-async-generator-functions { chrome < 63, ie, node < 10 }
   proposal-object-rest-spread { chrome < 60, ie, node < 8.3 }
   transform-dotall-regex { chrome < 62, ie, node < 8.10 }
-  proposal-unicode-property-regex { chrome < 64, ie, node < 10 }
+  proposal-unicode-property-regex { chrome, ie, node }
   transform-named-capturing-groups-regex { chrome < 64, ie, node < 10 }
   transform-async-to-generator { chrome < 55, ie, node < 7.6 }
   transform-exponentiation-operator { ie, node < 7 }

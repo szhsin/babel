@@ -8,7 +8,7 @@ Using targets:
 Using modules transform: auto
 
 Using plugins:
-  proposal-class-static-block { safari }
+  proposal-class-static-block { safari < 16.4 }
   proposal-private-property-in-object { safari < 15 }
   proposal-class-properties { safari < 14.1 }
   proposal-private-methods { safari < 15 }
@@ -21,7 +21,7 @@ Using plugins:
   proposal-async-generator-functions { safari < 12 }
   proposal-object-rest-spread { safari < 11.1 }
   transform-dotall-regex { safari < 11.1 }
-  proposal-unicode-property-regex { safari < 11.1 }
+  proposal-unicode-property-regex { safari }
   transform-named-capturing-groups-regex { safari < 11.1 }
   transform-async-to-generator { safari < 10.1 }
   transform-exponentiation-operator { safari < 10.1 }
@@ -29,7 +29,7 @@ Using plugins:
   proposal-export-namespace-from { safari }
   bugfix/transform-safari-block-shadowing { safari < 11 }
   bugfix/transform-safari-for-shadowing { safari < 11 }
-  bugfix/transform-safari-id-destructuring-collision-in-function-expression { safari }
+  bugfix/transform-safari-id-destructuring-collision-in-function-expression { safari < 16.3 }
   bugfix/transform-tagged-template-caching { safari < 13 }
   transform-modules-commonjs
   proposal-dynamic-import

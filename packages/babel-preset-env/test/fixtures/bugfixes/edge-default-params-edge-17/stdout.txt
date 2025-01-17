@@ -21,7 +21,7 @@ Using plugins:
   proposal-async-generator-functions { edge < 79 }
   proposal-object-rest-spread { edge < 79 }
   transform-dotall-regex { edge < 79 }
-  proposal-unicode-property-regex { edge < 79 }
+  proposal-unicode-property-regex { edge }
   transform-named-capturing-groups-regex { edge < 79 }
   proposal-export-namespace-from { edge < 79 }
   bugfix/transform-edge-default-parameters { edge < 18 }

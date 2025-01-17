@@ -21,7 +21,7 @@ Using plugins:
   proposal-async-generator-functions { chrome < 63 }
   syntax-object-rest-spread
   transform-dotall-regex { chrome < 62 }
-  proposal-unicode-property-regex { chrome < 64 }
+  proposal-unicode-property-regex { chrome }
   transform-named-capturing-groups-regex { chrome < 64 }
   proposal-export-namespace-from { chrome < 72 }
   transform-modules-commonjs

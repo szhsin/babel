@@ -21,7 +21,7 @@ Using plugins:
   proposal-async-generator-functions { node < 10 }
   proposal-object-rest-spread { node < 8.3 }
   transform-dotall-regex { node < 8.10 }
-  proposal-unicode-property-regex { node < 10 }
+  proposal-unicode-property-regex { node }
   transform-named-capturing-groups-regex { node < 10 }
   transform-async-to-generator { node < 7.6 }
   transform-exponentiation-operator { node < 7 }

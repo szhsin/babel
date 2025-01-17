@@ -18,6 +18,7 @@ Using plugins:
   syntax-optional-catch-binding
   syntax-async-generators
   syntax-object-rest-spread
+  proposal-unicode-property-regex { chrome }
   bugfix/transform-v8-spread-parameters-in-optional-chaining { chrome < 91 }
   transform-modules-commonjs
   proposal-dynamic-import
