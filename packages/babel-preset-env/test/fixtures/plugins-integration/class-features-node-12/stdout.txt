@@ -20,6 +20,7 @@ Using plugins:
   syntax-optional-catch-binding
   syntax-async-generators
   syntax-object-rest-spread
+  proposal-unicode-property-regex { node }
   proposal-export-namespace-from { node < 13.2 }
   transform-modules-commonjs
   proposal-dynamic-import

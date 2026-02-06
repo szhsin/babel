@@ -89,6 +89,7 @@
     "deno": "1",
     "ios": "12",
     "samsung": "10",
+    "rhino": "1.7.15",
     "electron": "4.0"
   },
   "es6.array.for-each": {
@@ -117,6 +118,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "1.2"
   },
   "es7.array.includes": {
@@ -129,6 +131,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.36"
   },
   "es6.array.index-of": {
@@ -301,6 +304,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "1.2"
   },
   "es6.date.now": {
@@ -360,6 +364,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.36"
   },
   "es6.date.to-string": {
@@ -797,6 +802,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.object.create": {
@@ -920,6 +926,7 @@
     "deno": "1",
     "ios": "10.3",
     "samsung": "6",
+    "rhino": "1.8",
     "electron": "1.4"
   },
   "es6.object.get-own-property-names": {
@@ -1113,6 +1120,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "1.2"
   },
   "es7.promise.finally": {
@@ -1125,6 +1133,7 @@
     "deno": "1",
     "ios": "11.3",
     "samsung": "8",
+    "rhino": "1.7.15",
     "electron": "3.0"
   },
   "es6.reflect.apply": {
@@ -1137,6 +1146,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.construct": {
@@ -1161,6 +1171,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.delete-property": {
@@ -1173,6 +1184,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.get": {
@@ -1185,6 +1197,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.get-own-property-descriptor": {
@@ -1197,6 +1210,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.get-prototype-of": {
@@ -1209,6 +1223,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.has": {
@@ -1221,6 +1236,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.is-extensible": {
@@ -1233,6 +1249,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.own-keys": {
@@ -1245,6 +1262,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.prevent-extensions": {
@@ -1257,6 +1275,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.set": {
@@ -1269,6 +1288,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.reflect.set-prototype-of": {
@@ -1281,6 +1301,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.8",
     "electron": "0.37"
   },
   "es6.regexp.constructor": {
@@ -1305,6 +1326,7 @@
     "deno": "1",
     "ios": "9",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "0.37"
   },
   "es6.regexp.match": {
@@ -1367,6 +1389,7 @@
     "deno": "1",
     "ios": "10",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "1.1"
   },
   "es6.set": {
@@ -1918,6 +1941,7 @@
     "deno": "1",
     "ios": "9",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "1.2"
   },
   "es6.weak-set": {
@@ -1930,6 +1954,7 @@
     "deno": "1",
     "ios": "9",
     "samsung": "5",
+    "rhino": "1.7.15",
     "electron": "1.2"
   }
 }
